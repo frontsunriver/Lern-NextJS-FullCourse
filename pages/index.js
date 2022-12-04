@@ -16,6 +16,10 @@ export default function Home() {
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
         </p>
+        <div className={styles.backToHome}>
+        <Link href="/posts/first-post" > First Post </Link>
+        </div>
+        
       </section>
     </Layout>
   );
