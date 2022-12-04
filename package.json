@@ -11,6 +11,9 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "sass": "^1.56.1"
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.19",
+    "sass": "^1.56.1",
+    "tailwindcss": "^3.2.4"
   }
 }
